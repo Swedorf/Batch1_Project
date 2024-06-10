@@ -1,6 +1,6 @@
 # Batch1_Project
 For Running Project 
-1. Start the Backend Server
+1. Start the Backend Server    
 #cd backend
 #noder server.js
 
