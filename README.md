@@ -1,5 +1,5 @@
 # Batch1_Project
-For Running Project Add your Code (This is Template Only)
+For Running Project Add your Code (As this is Template Only)
 1. Start the Backend Server    
 #cd backend
 #node server.js
